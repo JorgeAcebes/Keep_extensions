@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Ctrl+Mayusc+E Shortcut Extension",
+  "name": "Ctrl+E Shortcut Extension",
   "description": "Abre una URL específica cuando presionas Ctrl+E",
   "version": "1.0",
   "permissions": ["tabs"],
