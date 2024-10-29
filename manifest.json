@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Ctrl+Mayusc+E Shortcut Extension",
+  "description": "Abre una URL específica cuando presionas Ctrl+Mayusc+E",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "open_url": {
+      "suggested_key": {
+        "default": "Ctrl+Mayusc+E",
+        "windows": "Ctrl+Mayusc+E",
+        "mac": "Command+Mayusc+E",
+        "chromeos": "Ctrl+Mayusc+E",
+        "linux": "Ctrl+Mayusc+E"
+      },
+      "description": "Abrir una URL con Ctrl+Mayusc+E"
+    }
+  }
+}
