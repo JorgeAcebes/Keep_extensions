@@ -10,11 +10,11 @@
   "commands": {
     "open_url": {
       "suggested_key": {
-        "default": "Ctrl+Mayusc+E",
-        "windows": "Ctrl+Mayusc+E",
-        "mac": "Command+Mayusc+E",
-        "chromeos": "Ctrl+Mayusc+E",
-        "linux": "Ctrl+Mayusc+E"
+        "default": "Ctrl+Mayús+E",
+        "windows": "Ctrl+Mayús+E",
+        "mac": "Command+Mayús+E",
+        "chromeos": "Ctrl+Mayús+E",
+        "linux": "Ctrl+Mayús+E"
       },
       "description": "Abrir una URL con Ctrl+Mayusc+E"
     }
